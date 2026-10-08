@@ -107,13 +107,6 @@
   <a href="https://pytest.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-
   <br>
 
   <strong>Certifications:</strong> AZ-900 · DP-900 · DP-700 (Fabric Data Engineer Associate)
